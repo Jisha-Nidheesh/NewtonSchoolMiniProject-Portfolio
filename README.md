@@ -1,2 +1,2 @@
-# NewtonSchoolMiniProject-Portfolio
-My Portfolio Website Jisha Nidheesh 
+# NS-Mini-Project-Portfolio
+ The NewtonSchool Mini Project
